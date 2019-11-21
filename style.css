@@ -164,8 +164,17 @@ h5{
     width:25vw;
     background-color: #19e68c;
     color: white;
-    font-weight: bolder;
+    
 }
+
+#text1 {
+    font-weight: bold;
+    font-size:35px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+
 
 
 #wideCard {
@@ -174,6 +183,17 @@ h5{
     margin-left: 9px;
     margin-top: 25px;
     background-color: midnightblue;
+    color: white;
+}
+
+#text3 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+
+#text4 {
+    margin-top: 220px;
 }
 
 #shortCard2 {
@@ -181,7 +201,14 @@ h5{
     width:25vw;
     background-color: silver;
     color: white;
-    font-weight: bolder;
+    
+}
+
+#text2 {
+    font-weight: bold;
+    font-size:35px;
+    margin-top: 160px;
+    text-align: left;
 }
 
 .fourthSectionText {
